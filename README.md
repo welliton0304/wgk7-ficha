@@ -1,11 +1,11 @@
-# Ficha de Implantação — WGK7 Solutions
+﻿# Ficha de Implantação — WGK7 Solutions
 
 Formulário online para clientes preencherem os dados de implantação do condomínio.
 As respostas chegam automaticamente por e-mail.
 
 ## 🔗 Qual é o link da ficha?
 
-**https://welliton0304.github.io/wgk7-ficha/**
+**https://wgk7.github.io/**
 
 Esse link é público, permanente e gratuito (hospedado no GitHub Pages).
 
@@ -40,7 +40,7 @@ A própria ficha avisa o cliente para mandar os documentos por WhatsApp.
 
 O jeito mais fácil, direto pelo site do GitHub (sem programas):
 
-1. Entre em **https://github.com/welliton0304/wgk7-ficha** (logado na conta `welliton0304`).
+1. Entre em **https://github.com/wgk7/wgk7.github.io** (logado na conta `wgk7`).
 2. Clique no arquivo **`index.html`**.
 3. Clique no ícone de **lápis** (✏️ "Edit") no canto superior direito.
 4. Faça a alteração desejada (ex: mudar um texto, acrescentar um campo).
@@ -54,8 +54,8 @@ ao Claude Code para republicar.
 
 | O quê | Onde |
 |---|---|
-| Página no ar | https://welliton0304.github.io/wgk7-ficha/ |
-| Código-fonte | https://github.com/welliton0304/wgk7-ficha |
+| Página no ar | https://wgk7.github.io/ |
+| Código-fonte | https://github.com/wgk7/wgk7.github.io |
 | Cópia no computador | `Desktop\Wgk7\ficha-wgk7` |
 | Respostas das fichas | No e-mail cadastrado na chave do Web3Forms |
 
